@@ -10,6 +10,7 @@ for (let step = 0; step < 5; step++) {
   .then(() => sleep(1000);
   .then(() => document.querySelector("#open-position-view > div.execution-head > div.head-buttons-ph > a").click();
 
+        
 }
 
 
